@@ -11,3 +11,5 @@ CODE: https://github.com/NaFatimata/Analyzing-NYC-Public-School-Test-Results/blo
 Datasets: 
 
 [schools_data.csv](https://github.com/NaFatimata/Analyzing-NYC-Public-School-Test-Results/files/9637893/schools_data.csv)
+
+TECHNOLOGY: SQL 
